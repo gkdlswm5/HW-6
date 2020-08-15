@@ -1,0 +1,19 @@
+.fiveDay {
+  /* background-color: beige; */
+  float: left;
+  padding: 20px;
+}
+
+.weatherInfo {
+  float: right;
+  /* position: absolute; */
+}
+
+.searchSelections {
+  float: left;
+  width: 500px;
+}
+
+body {
+  background-color: grey;
+}
